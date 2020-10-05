@@ -74,7 +74,7 @@ titleSeparator = "•"
 [params.social]
 github = "whatisnormal"
 twitter = "whatisnormalhuh"
-linkedin = "josepaulofernandes"
+linkedin = "zefernandes"
 
 [params.comments]
 enable = false
@@ -90,7 +90,7 @@ enable = true
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
 username = "Whatisnormal"
-repository = "whatisnormal.github.io"
+repository = "whatisnormal_blog"
 
 # Utterances: https://utteranc.es
 [params.comments.utterances]
@@ -101,7 +101,7 @@ theme = "github-light"
 
 [params.comments.utterances.github]
 username = "Whatisnormal"
-repository = "whatisnormal.github.io"
+repository = "whatisnormal_blog"
 
 [params.search]
 client = "fuse" # algolia / fuse / lunr
@@ -124,7 +124,7 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://github.com/Whatisnormal/whatisnormal.github.io"
+url = "https://github.com/Whatisnormal/whatisnormal_blog"
 
 [blackfriday]
 hrefTargetBlank = true
