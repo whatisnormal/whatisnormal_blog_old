@@ -1,5 +1,12 @@
 
-My personal Blog
+# My personal blog
+Supported by [Hugo](https://gohugo.io/).
 
-# Theme
-Used (Minimo)[https://github.com/MunifTanjim/minimo] theme. Worth a try.
+## Serve locally
+> hugo serve -D
+
+## Publicly exposed at
+[https://whatisnormal.me](https://whatisnormal.me)
+
+## Theme
+Used the [Minimo](https://github.com/MunifTanjim/minimo) theme. Worth a try.
