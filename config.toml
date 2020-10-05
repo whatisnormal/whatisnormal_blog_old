@@ -5,7 +5,7 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = "whatisnormalanyway"
+disqusShortname = "https-whatisnormal-me"
 googleAnalytics = "UA-2162102-1"
 
 Paginate = 5
