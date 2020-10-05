@@ -6,7 +6,7 @@ copyright = ""
 theme = "minimo"
 
 disqusShortname = "https-whatisnormal-me"
-googleAnalytics = "UA-2162102-1"
+googleAnalytics = "UA-92162102-1"
 
 Paginate = 5
 preserveTaxonomyNames = true
@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Welcome to my personal blog"
+description = "Educating my former self"
 title404 = "Nothing's here!"
 
 [params.assets]
