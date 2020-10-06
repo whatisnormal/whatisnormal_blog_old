@@ -1,7 +1,7 @@
 [about]
 title = ""
 description = ""
-logo = "/images/astronaut.png"
+logo = "/images/logo.png"
 
 [breadcrumbs]
 separator = "/"
