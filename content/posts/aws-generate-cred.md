@@ -2,7 +2,7 @@
 title: Generating Access keys in AWS
 tags: [aws, security]
 comments: true
-date: 2021-12-31T16:04:44+01:00
+date: 2021-08-15T14:00:00+01:00
 ---
 It happens to me that from time to time, by security credentials when accessing AWS become invalid. Did I wrote a typo? Did I just forgot to update the file? Well multiple situations can trigger this.
 
