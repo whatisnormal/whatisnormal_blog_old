@@ -13,7 +13,7 @@ It happens to me that from time to time, by security credentials when accessing 
 3. Generate access keys and add those to the _.aws/credentials file_
 3. Export env variables by running:
     
-    >    export AWS_ACCESS_KEY_ID=the generated key id
+    > export AWS_ACCESS_KEY_ID=the generated key id
         
     > export AWS_SECRET_ACCESS_KEY=generated access key
     
